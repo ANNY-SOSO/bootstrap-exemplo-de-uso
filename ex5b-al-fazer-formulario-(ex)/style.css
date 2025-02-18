@@ -1,0 +1,42 @@
+/* 2ª Digitação (Aqui) */
+
+h1 {
+    font-size: x-large;
+    text-align: center;
+    font-family: 'Playfair', "Display";
+    font-weight: 700;
+}
+
+.custom-form {
+    background: linear-gradient(145deg, #7cadd0, #42587d);
+    padding: 30px;
+    margin: 70px;
+    border-radius: 20px; 
+    box-shadow: inset 0px 0 10px rgba(0, 0, 0, 0.5);
+}
+
+
+.custom-icon {
+    background-color: #3498db;
+    border: #316a91;
+}
+
+.btn .btn-primary, .custom-button {
+    background: linear-gradient(145deg, #2b5e89, #5394c3);
+    padding: 0.8rem 2rem;
+    border-radius: 15px;
+    border: none;
+}
+
+.custom-button:hover {
+    background: linear-gradient(145deg, #4d5795, #4451a3);
+}
+
+.container {
+    max-width: 60%;
+} 
+
+
+
+
+
